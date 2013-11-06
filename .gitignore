@@ -1,3 +1,4 @@
 .DS_Store
 cache/*.png
 cache/*.jpeg
+config.php
