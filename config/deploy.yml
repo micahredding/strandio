@@ -4,5 +4,5 @@ production:
     ssh_options:
     - "-p 2222"
   deploy_to: "~/public_html/strand.io/"
-  repository: "git@github.com:micahredding/strand.git"
+  repository: "git@github.com:micahredding/strandio.git"
   branch: "master"
